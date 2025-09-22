@@ -7,6 +7,6 @@ J’utilise principalement **Python** pour l’exploration et l'analyse de donn�
 
 Actuellement, je me forme activement sur **Python**, **SQL** et **Power BI** pour élargir mes compétences data, structurer mes analyses et proposer des dashboards dynamiques.
 
-Sinon, je suis un passionné de numérique en général (jeux vidéo, musique, réseaux sociaux) 
+Sinon, je suis un grand passionné de numérique ! (jeux vidéo, musique, réseaux sociaux) 💻
 
 Je partagerai mes projets d'analyse de données ici alors n'hésitez pas à me faire un retour ! 😁
